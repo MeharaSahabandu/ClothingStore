@@ -27,7 +27,7 @@ const NavBar = () => {
       >
         <div style={{ display: "flex", alignItems: "center" }}>
           <Typography variant="h6" style={{ color: "white" }}>
-            FunkyPop
+           <b> FunkyPop</b>
           </Typography>
         </div>
         <div>
